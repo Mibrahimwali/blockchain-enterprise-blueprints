@@ -13,6 +13,7 @@ Blockchain · Web3 · Tokenization · NFT · Enterprise Blockchain
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Sports Tokenization Platform](blueprints/2026/06/sports-tokenization-platform.md) | Latest |
 
 | Article | Added |
 |---------|-------|
