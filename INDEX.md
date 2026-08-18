@@ -8,3 +8,4 @@
 - [Real Estate Tokenization Architecture](blueprints/2026/06/real-estate-tokenization-architecture.md)
 - [Supply Chain Tracking on Blockchain](blueprints/2026/07/supply-chain-tracking-on-blockchain.md)
 - [DAO Governance Framework](blueprints/2026/08/dao-governance-framework.md)
+- [Enterprise Stablecoin Design](blueprints/2026/08/enterprise-stablecoin-design.md)

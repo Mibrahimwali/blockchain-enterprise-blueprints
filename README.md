@@ -13,6 +13,7 @@ Blockchain · Web3 · Tokenization · NFT · Enterprise Blockchain
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Enterprise Stablecoin Design](blueprints/2026/08/enterprise-stablecoin-design.md) | Latest |
 | [DAO Governance Framework](blueprints/2026/08/dao-governance-framework.md) | Latest |
 | [Supply Chain Tracking on Blockchain](blueprints/2026/07/supply-chain-tracking-on-blockchain.md) | Latest |
 | [Real Estate Tokenization Architecture](blueprints/2026/06/real-estate-tokenization-architecture.md) | Latest |
