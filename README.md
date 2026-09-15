@@ -13,6 +13,7 @@ Blockchain · Web3 · Tokenization · NFT · Enterprise Blockchain
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Loyalty Points to On-Chain Assets](blueprints/2026/09/loyalty-points-to-on-chain-assets.md) | Latest |
 | [Fan Engagement Token Platform](blueprints/2026/08/fan-engagement-token-platform.md) | Latest |
 | [Enterprise Stablecoin Design](blueprints/2026/08/enterprise-stablecoin-design.md) | Latest |
 | [DAO Governance Framework](blueprints/2026/08/dao-governance-framework.md) | Latest |

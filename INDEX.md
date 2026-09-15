@@ -10,3 +10,4 @@
 - [DAO Governance Framework](blueprints/2026/08/dao-governance-framework.md)
 - [Enterprise Stablecoin Design](blueprints/2026/08/enterprise-stablecoin-design.md)
 - [Fan Engagement Token Platform](blueprints/2026/08/fan-engagement-token-platform.md)
+- [Loyalty Points to On-Chain Assets](blueprints/2026/09/loyalty-points-to-on-chain-assets.md)
