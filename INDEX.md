@@ -12,3 +12,4 @@
 - [Fan Engagement Token Platform](blueprints/2026/08/fan-engagement-token-platform.md)
 - [Loyalty Points to On-Chain Assets](blueprints/2026/09/loyalty-points-to-on-chain-assets.md)
 - [Cross-Border Settlement Layer](blueprints/2026/09/cross-border-settlement-layer.md)
+- [Carbon Credit Tokenization](blueprints/2026/09/carbon-credit-tokenization.md)
